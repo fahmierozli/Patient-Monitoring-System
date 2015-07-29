@@ -1,3 +1,7 @@
+Details: This Project is about to Monitor Patient  using arduino and to display the result at website anywhere.
+Scope: VB, PHP, Arduino, MYSQL, Webhosting
+
+
 Database-
 -Add Column patiendID varchar 10 to heartrate
 -alter column time format datenow / current timestamp
@@ -32,7 +36,7 @@ ARDUINO
 PMS
 -OLD unedited PMS PHP source code
 
-//demo http://p.site40.net/
+//demo http://semarakmotivasi.com/pms
 
 contact person:
 Mohd Nur Fahmie
