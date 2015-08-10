@@ -39,7 +39,8 @@ ARDUINO
 PMS
 -OLD unedited PMS PHP source code
 
-//demo http://semarakmotivasi.com/pms
+//demo http://mnf.website/pms
+
 Demo:
 ![alt tag](https://raw.githubusercontent.com/fahmierozli/Patient-Monitoring-System/master/system1.png)
 ![alt tag](https://raw.githubusercontent.com/fahmierozli/Patient-Monitoring-System/master/system2.png)
